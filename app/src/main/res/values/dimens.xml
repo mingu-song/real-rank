@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">8dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="list_text_height">60dp</dimen>
+    <dimen name="list_title_sp">18sp</dimen>
+    <dimen name="list_rank_cnt_sp">11sp</dimen>
+    <dimen name="list_img_size">20dp</dimen>
+    <dimen name="indicator_padding">10dp</dimen>
+    <dimen name="widget_1cell_size">40dp</dimen>
+    <dimen name="widget_2cell_size">110dp</dimen>
+    <dimen name="widget_title_height">35dp</dimen>
+    <dimen name="widget_img_padding_4">4dp</dimen>
+    <dimen name="widget_img_padding_6">6dp</dimen>
+    <dimen name="widget_img_padding_8">8dp</dimen>
+    <dimen name="widget_list_padding_3">3dp</dimen>
+    <dimen name="widget_list_padding_5">5dp</dimen>
+    <dimen name="widget_list_padding_10">10dp</dimen>
+    <dimen name="widget_list_rank_width">15dp</dimen>
+    <dimen name="widget_list_rank_text_size">10sp</dimen>
+    <dimen name="text_12sp">12sp</dimen>
+    <dimen name="fab_padding">16dp</dimen>
+    <dimen name="add_row_button_width">25dp</dimen>
+    <dimen name="add_row_button_height">25dp</dimen>
+    <dimen name="add_row_hint_size">13sp</dimen>
+</resources>

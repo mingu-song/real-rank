@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Real Ranking</string>
+    <string name="notification_name">Register words for the notification</string>
+    <string name="check_network_toast">Network does not connect. Please check and try again.</string>
+    <string name="add_rank_text_hint">When register the words, you will receive the notification.</string>
+    <string name="ranking_text_show">is showing on the ranking lists.</string>
+    <string name="ranking_text_push">Please click here</string>
+    <string name="dialog_text">Please wait...</string>
+    <string name="empty_list">Please check network status and restart the application</string>
+    <string name="widget_config_interval">Update Interval</string>
+    <string name="widget_config_disturb">Do not disturb</string>
+    <string name="widget_config_sleep">Update during Screen off</string>
+    <string name="start_hour">Start Hour</string>
+    <string name="end_hour">End Hour</string>
+    <string name="alreadyExist">You should make only one.</string>
+    <string name="widget_config">Widget Configure</string>
+</resources>
